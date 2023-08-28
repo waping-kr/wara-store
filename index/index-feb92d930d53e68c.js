@@ -740,13 +740,13 @@
                                                     }))]
                                                 }), (0, n.jsx)(v.Z, {
                                                     children: (0, n.jsx)(m.Z, {
-                                                        href: "무료" === e.name ? "https://streamable.com/chfrwr" : "https://streamable.com/chfrwr",
+                                                        href: "무료" === e.name ? "http://xn--oi2b03z.com/" : "http://xn--oi2b03z.com/",
                                                         fullWidth: !0,
                                                         variant: "contained",
                                                         sx: {
                                                             fontWeight: "600"
                                                         },
-                                                        children: "0" === e.priceMonthly ? "무료" : "보기"
+                                                        children: "0" === e.priceMonthly ? "무료" : "구매"
                                                     })
                                                 })]
                                             })
