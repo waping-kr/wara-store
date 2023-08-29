@@ -2936,7 +2936,7 @@
                 }), []), (0, i.jsxs)(i.Fragment, {
                     children: [(0, i.jsxs)(R(), {
                         children: [(0, i.jsx)("title", {
-                            children: "와라.COM / 발로란트.NET"
+                            children: "와라.COM / 와라.NET"
                         }), (0, i.jsx)("meta", {
                             name: "keywords",
                             content: "waping, essential, discord, backup, restore, backup service, restorebot, 와핑, 복구봇, 디스코드, 최저가, 저렴한"
@@ -2951,10 +2951,10 @@
                             content: "yes"
                         }), (0, i.jsx)("meta", {
                             name: "apple-mobile-web-app-title",
-                            content: "와라.COM / 발로란트.NET"
+                            content: "와라.COM / 와라.NET"
                         }), (0, i.jsx)("meta", {
                             name: "application-name",
-                            content: "와라.COM / 발로란트.NET"
+                            content: "와라.COM / 와라.NET"
                         }), (0, i.jsx)("link", {
                             rel: "canonical",
                             href: "https://waping.net"

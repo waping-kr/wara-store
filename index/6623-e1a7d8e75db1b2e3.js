@@ -64,7 +64,7 @@
                                 sx: {
                                     fontWeight: "bold"
                                 },
-                                children: "와라.COM / 발로란트.NET"
+                                children: "와라.COM / 와라.NET"
                             }), (0, n.jsx)(i.Z, {
                                 variant: "body2",
                                 color: "text.secondary",
@@ -133,7 +133,7 @@
             function D() {
                 var r = (0, s.useState)({
                         text: "구매",
-                        href: "http://xn--oi2b03z.com/"
+                        href: "http://xn--si2b8p53gt54a.net/"
                     }),
                     e = r[0],
                     t = r[1],
@@ -150,13 +150,13 @@
                             return (0, o.__generator)(this, (function(o) {
                                 return localStorage.getItem("token") && (e = null === (r = null === localStorage || void 0 === localStorage ? void 0 : localStorage.getItem("token")) || void 0 === r ? void 0 : r.split(".")) ? !(n = JSON.parse(atob(e[1]))).id && new Date(1e3 * n.exp) < new Date ? t({
                                     text: "구매",
-                                    href: "http://xn--oi2b03z.com/"
+                                    href: "http://xn--si2b8p53gt54a.net/"
                                 }) : t({
                                     text: "구매",
-                                    href: "http://xn--oi2b03z.com/"
+                                    href: "http://xn--si2b8p53gt54a.net/"
                                 }) : t({
                                     text: "구매",
-                                    href: "http://xn--oi2b03z.com/"
+                                    href: "http://xn--si2b8p53gt54a.net/"
                                 }), [2]
                             }))
                         }));

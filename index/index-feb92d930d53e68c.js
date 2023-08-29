@@ -71,7 +71,7 @@
                                 content: "와라.COM은 발로란트 / 배틀그라운드 / 서든어택 / 각종 FPS게임의 랭커용 방송용 제품을 판매하고 있습니다."
                             }), (0, n.jsx)("meta", {
                                 property: "og:title",
-                                content: "와라.COM / 발로란트.NET"
+                                content: "와라.COM / 와라.NET"
                             })]
                         }), (0, n.jsxs)(x.Z, {
                             maxWidth: "xl",
@@ -115,7 +115,7 @@
                                             color: l.Z.palette.secondary.main
                                         },
                                         ref: e
-                                    }), "핵판매샵", (0, n.jsx)("br", {}), "와라.COM / 발로란트.NET"]
+                                    }), "핵판매샵", (0, n.jsx)("br", {}), "와라.COM / 와라.NET"]
                                 }), (0, n.jsx)(c.Z, {
                                     "data-aos": "fade-down",
                                     color: l.Z.palette.grey[200],
@@ -142,7 +142,7 @@
                                     children: (0, n.jsx)(m.Z, {
                                         variant: "contained",
                                         color: "primary",
-                                        href: "http://xn--oi2b03z.com/",
+                                        href: "http://xn--si2b8p53gt54a.net/",
                                         size: "large",
                                         children: "구매하기"
                                     })
@@ -740,7 +740,7 @@
                                                     }))]
                                                 }), (0, n.jsx)(v.Z, {
                                                     children: (0, n.jsx)(m.Z, {
-                                                        href: "무료" === e.name ? "http://xn--oi2b03z.com/" : "http://xn--oi2b03z.com/",
+                                                        href: "무료" === e.name ? "http://xn--si2b8p53gt54a.net/" : "http://xn--si2b8p53gt54a.net/",
                                                         fullWidth: !0,
                                                         variant: "contained",
                                                         sx: {
