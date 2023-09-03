@@ -2939,7 +2939,7 @@
                             children: "와라.COM / 와라.NET"
                         }), (0, i.jsx)("meta", {
                             name: "keywords",
-                            content: "waping, essential, discord, backup, restore, backup service, restorebot, 와핑, 복구봇, 디스코드, 최저가, 저렴한"
+                            content: "배그핵, 배그 핵, 서든핵, 서든 핵, 배그핵 디스코드, 배틀그라운드 핵, 배틀그라운드핵, 서든어택핵, 배그 ESP, 서든 월핵, 배그핵 전문 와라.COM, 배그핵 와라.COM, 발로핵 와라.COM, 발로란트 핵 와라.COM, 배틀그라운드 핵 와라.COM, 발로란트 슬롯제, 발로 슬롯제, PUBG AIMBOT, 배그 에임봇, 서든 오토에임, 서든 월핵, 배그 핵 사이트, 배그 핵 구매 사이트, 배그 핵 판매사이트, 배틀그라운드 핵 구매, 배그 핵 판매, 발로란트 핵, 발로핵샵, 핵판매샵, 발로핵 판매사이트, 발로핵판매샵, 발로 핵 구매 디스코드, 발로핵 사이트, 발로 ESP"
                         }), (0, i.jsx)("meta", {
                             name: "theme-color",
                             content: "#DBE6F6"
